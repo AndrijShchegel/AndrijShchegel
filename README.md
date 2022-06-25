@@ -9,4 +9,4 @@
 <code>📦 Tech stack: node.js</code>
 <code>🪙 [Rates](RATES.md)</code><br>
 <code>💬 telegram: [@SolarUlt](https://telegram.me/SolarUlt)</code>
-<code>📫 [your-email](mailto:andrii.shchegel@gmail.com)</code>
+<code>📫 [andrii.shchegel@gmail.com](mailto:andrii.shchegel@gmail.com)</code>
