@@ -23,12 +23,12 @@
 | 🟩 Object            | 🟩 logical operators  | 🟩 callback           | 🟩 Set              | 🟩 duplicate code    |
 | 🟩 this              | 🟦 bitwise operators  | 🟩 listener           | ⬜️ weak collections | 🟦 exception         |
 | 🟩 arrow function    | 🟦 break, continue    | ⬜️ pipe               | ⬜️ Proxy            | 🟦 return early      |
-| 🟨 generator         | 🟦 switch             | ⬜️ memoize            | ⬜️ Symbol           | 🟦 linter            |
-| 🟩 async function    | 🟨 new Error          | 🟦 factory            | 🟩 string parsing   | ⬜️ prettier          |
-| 🟨 call, bind, apply |                       | 🟦 pool               | 🟩 timers           | 🟦 unittest          |
-| 🟩 Array             |                       | 🟦 wrapper            | 🟨 EventEmitter     | 🟦 git               |
-| 🟨 instanceof        |                       | 🟨 default parameters | 🟨 RegExp           | 🟩 github            |
-| 🟨 ...spread         |                       |                       | 🟩 global           | 🟨 node.js           |
+| 🟨 generator         | 🟦 switch             | ⬜️ compose            | ⬜️ Symbol           | 🟦 linter            |
+| 🟩 async function    | 🟨 new Error          | ⬜️ memoize            | 🟩 string parsing   | ⬜️ prettier          |
+| 🟨 call, bind, apply |                       | 🟦 factory            | 🟩 timers           | 🟦 unittest          |
+| 🟩 Array             |                       | 🟦 pool               | 🟨 EventEmitter     | 🟦 git               |
+| 🟨 instanceof        |                       | 🟦 wrapper            | 🟨 RegExp           | 🟩 github            |
+| 🟨 ...spread         |                       | 🟨 default parameters | 🟩 global           | 🟨 node.js           |
 | 🟨 ...rest           |                       |                       | 🟩 undefined        | 🟨 npm               |
 | 🟩 typeof            |                       |                       | 🟩 null             |                      |
 
